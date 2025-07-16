@@ -9,4 +9,4 @@ Day 4 : I build CLI dashboard for my scrum master application.
 Day 5 : I built new functionlaity for my aplication in that it take discription from user and display subtask of checklist. 
 Day 6 : Assign project member according to their previous task history.
 Day 7 : I built new functionlaity that will detect some members are frustrated are now or stuck on error.
-Day 8 : 
+Day 8 : I use task data + timeline and built chat.
