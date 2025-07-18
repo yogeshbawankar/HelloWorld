@@ -10,3 +10,4 @@ Day 5 : I built new functionlaity for my aplication in that it take discription 
 Day 6 : Assign project member according to their previous task history.
 Day 7 : I built new functionlaity that will detect some members are frustrated are now or stuck on error.
 Day 8 : I use task data + timeline and built chat.
+Day 9 : I re-evaluated code added new function make code more robust. 
